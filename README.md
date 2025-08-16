@@ -1,8 +1,8 @@
 # Javascript Saat ve Karşılama
 
-(Siteye Gitmek İçin)[https://eraykiyici.github.io/js-clock/]
-
 Bu proje, kullanıcıdan ad ve soyad bilgisini alarak ekranda karşılama mesajı gösterir. Ayrıca güncel saat ve günü gerçek zamanlı olarak ekrana yansıtır.  
+
+(Siteye Gitmek İçin)[https://eraykiyici.github.io/js-clock/]
 
 ## Özellikler
 - Kullanıcıdan ad ve soyad alma  
@@ -10,5 +10,3 @@ Bu proje, kullanıcıdan ad ve soyad bilgisini alarak ekranda karşılama mesaj�
 - Canlı olarak saat ve gün bilgisini ekranda güncelleme  
 - Tailwind CSS ile basit stil düzenlemeleri  
 - Google Fonts kullanımı   
-
-## Proje Yapısı
