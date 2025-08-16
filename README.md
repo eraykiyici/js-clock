@@ -2,7 +2,8 @@
 
 Bu proje, kullanıcıdan ad ve soyad bilgisini alarak ekranda karşılama mesajı gösterir. Ayrıca güncel saat ve günü gerçek zamanlı olarak ekrana yansıtır.  
 
-(Siteye Gitmek İçin)[https://eraykiyici.github.io/js-clock/]
+[Siteye Gitmek İçin](https://eraykiyici.github.io/js-clock/)
+
 
 ## Özellikler
 - Kullanıcıdan ad ve soyad alma  
